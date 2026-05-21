@@ -10,12 +10,14 @@ I'm a creative and result-driven Senior Angular Developer who loves challenges, 
 
 ### ⚡ GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=matheo&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-readme-streak-stats.herokuapp.com?user=matheo&theme=dark&hide_border=true&mode=weekly)
+<!--
+![](http://github-readme-stats.vercel.app/api/top-langs/?username=matheo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 ### 💫 Popular Contributions
 
-![](https://github-contributor-stats.vercel.app/api?username=matheo&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-contrib-stats.vercel.app/matheo/contributed.svg?max_repos=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
 
 ## 🤝 Socials
 
