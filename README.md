@@ -1,8 +1,9 @@
 ### 👋 Hi there! I'm Mateo!
 
-Senior Angular Engineer | Frontend Architect
+Senior Frontend Architect | AI-Native Engineer
 
-I'm a creative and result-driven Senior Angular Developer who loves challenges, writes high-quality code, and searches for new experiences and continuous learning. I'm passionate about creating elegant, efficient and clean solutions.
+I'm a creative and result-driven Senior Web Developer building enterprise-grade web applications with Angular and Nx.
+Over 9,000 registered hours on Upwork delivering complex, long-term software projects.
 
 ### 💻 Specialities
 
